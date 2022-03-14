@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background: purple;
+  }
+  
+  .ot7{
+    border-style:solid;
+    border-color:#190C29;
+    border: 1px 
+    border-radius: 80px;
+    padding: 5px;
+  }
+  
+  h1{
+    font-family: 'Rampart One', cursive;
+    font-size: 4em;
+    color: #26192F;
+  }
+  
+  h2{
+    font-family: 'Rampart One', cursive;
+    font-size: 2em;
+  }
+  
+  h3{
+   font-family: 'Signika', sans-serif;
+    font-size: 1.5em;
+  }
+  
+  p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.2em;
+  }
+  
+  .images{
+    width: 700px;
+    height: 500px;
+    border-style:solid;
+    border-color:#190C29;
+    border: 1px 
+    border-radius: 80px;
+    padding : 5px;
+    margin-right: 600px;
+  }
+  
+
+  
+  .links a {
+      font-family: 'Patrick Hand', cursive;
+      color: Violet;
+  }
+ 
